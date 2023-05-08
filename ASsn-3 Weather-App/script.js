@@ -11,6 +11,7 @@ const searchbtn = document.querySelector(".search button");
 
 const weathericon = document.querySelector(".weather-icon1");
 
+
 const toggles = document.querySelector("#toggledark");
 const body = document.querySelector("body");
 const icon = document.querySelector("i");

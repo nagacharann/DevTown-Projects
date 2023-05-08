@@ -126,6 +126,7 @@ const game = (option)=>{
                         rock.classList.add("tie");
                         messagebox.innerHTML="it's a tie"
                         break;
+                        
 
                     default:
                         break;
